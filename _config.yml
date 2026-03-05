@@ -1,0 +1,12 @@
+theme: jekyll-theme-minimal
+title: Test
+description: This is a test.
+url: https://kieronj.github.io
+author:
+  name: Kieron
+  url: https://github.com/kieronj
+github:
+  username: kieronj
+# theme_mode: dark
+# avatar: ...
+baseurl: ""
